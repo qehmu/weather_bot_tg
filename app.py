@@ -6,8 +6,8 @@ from aiogram.filters import CommandStart
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import Message
 
-TOKEN = '6430541813:AAFOBJW62aO6DW29SguGyCbscy0fZYZIMfg'
-API = '3d9de74844d28377e81415151cbe6a66'
+TOKEN = ''
+API = ''
 dp = Dispatcher(storage=MemoryStorage())
 
 
